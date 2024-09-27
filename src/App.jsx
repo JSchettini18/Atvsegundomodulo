@@ -3,6 +3,7 @@ import './App.css'
 import Garage from './components/Garage'
 import Zoo from './components/Zoo'
 import FruitBasket from './components/FruitBasket'
+import FormularioCadastro from './components/FormularioCadastro'
 
 
 
@@ -14,6 +15,7 @@ function App() {
       <Garage />
       <Zoo />
       <FruitBasket />
+      <FormularioCadastro />
 
     </>
   )
