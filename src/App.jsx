@@ -4,7 +4,7 @@ import Garage from './components/Garage'
 import Zoo from './components/Zoo'
 import FruitBasket from './components/FruitBasket'
 import FormularioCadastro from './components/FormularioCadastro'
-
+import MyForm from './components/MyForm'
 
 
 function App() {
@@ -15,7 +15,9 @@ function App() {
       <Garage />
       <Zoo />
       <FruitBasket />
+      <MyForm />
       <FormularioCadastro />
+      
 
     </>
   )
